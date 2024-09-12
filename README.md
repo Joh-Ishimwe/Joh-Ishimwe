@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josiane Ishimwe, but you can call me Joh dev</h1>
+<h1 align="center">Hi 👋, I'm Josiane Ishimwe</h1>
 <h3 align="center">A passionate about Machine Learning, I'm Rwandan and currently based in Kigali</h3>
 <img align="right" alt="Coding" width="400" src "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Ffemale-programmer&psig=AOvVaw22zsAzYkiUf2cthuYewOGs&ust=1717431094178000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiSxcunvYYDFQAAAAAdAAAAABAJ"
 
