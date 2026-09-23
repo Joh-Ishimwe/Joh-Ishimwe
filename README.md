@@ -6,25 +6,25 @@
 🇷🇼 Rwanda · Interested in data, AI, agriculture & conservation technology
 </p>
 
-### 👨🏽‍💻 About Me
+###  About Me
 
-* 🎓 Software Engineering graduate — African Leadership University, Class of 2026
-* 📊 Interested in **Data Engineering, Analytics & AI**
-* 🌱 Exploring technology for **Agriculture & Conservation**
-* 🗺️ Experience with **GIS, spatial data & conservation systems**
-* 🐍 Currently strengthening **Python, SQL & Cloud**
+*  Software Engineering graduate — African Leadership University, Class of 2026
+*  Interested in **Data Engineering, Analytics & AI**
+*  Exploring technology for **Agriculture & Conservation**
+*  Experience with **GIS, spatial data & conservation systems**
+*  Currently strengthening **Python, SQL & Cloud**
 
 ### 🛠️ Tools
 
 **Python · SQL · Pandas · NumPy · PySpark · MySQL · Tableau · GIS · ArcGIS · EarthRanger · Git · React · Node.js**
 
-### 🚀 Projects
+###  Projects
 
-* 🚜 **[TractorCare](https://github.com/Joh-Ishimwe/tractorcare)** — Predictive maintenance for agricultural tractors
-* 🔐 **PII Detection & Data Quality Pipeline** — Data profiling, validation & PII detection
-* 🐘 **Conservation Data Systems** — GIS, wildlife monitoring & analytics
+*  **[TractorCare](https://github.com/Joh-Ishimwe/tractorcare)** — Predictive maintenance for agricultural tractors
+*  **PII Detection & Data Quality Pipeline** — Data profiling, validation & PII detection
+*  **Conservation Data Systems** — GIS, wildlife monitoring & analytics
 
-### 🤝 Connect
+###  Connect
 
 <a href="https://linkedin.com/in/josiane-ishimwe">LinkedIn</a> · <a href="mailto:jishimwe24@gmail.com">Email</a>
 
