@@ -24,6 +24,12 @@
 *  **PII Detection & Data Quality Pipeline** — Data profiling, validation & PII detection
 *  **Conservation Data Systems** — GIS, wildlife monitoring & analytics
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joh-ishimwe" alt="GitHub Streak" />
+</p>
+
 ###  Connect
 
 <a href="https://linkedin.com/in/josiane-ishimwe">LinkedIn</a> · <a href="mailto:jishimwe24@gmail.com">Email</a>
