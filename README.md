@@ -13,7 +13,6 @@
 * 🌱 Exploring technology for **Agriculture & Conservation**
 * 🗺️ Experience with **GIS, spatial data & conservation systems**
 * 🐍 Currently strengthening **Python, SQL & Cloud**
-* ☁️ Studying for **AWS Cloud Practitioner**
 
 ### 🛠️ Tools
 
